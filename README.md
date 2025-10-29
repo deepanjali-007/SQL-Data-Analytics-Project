@@ -15,14 +15,19 @@ My goal is to help organizations solve complex problems and make strategic decis
 **🚀 What I Do**
 
 📈 **Data Analytics**: Performing in-depth exploratory data analysis (EDA) and querying to answer key business questions.
+
 🧰 **Data Warehousing**: Designing and building scalable data models (Star/Snowflake schemas) and ETL/ELT pipelines.
+
 **📊Business Intelligence**: Creating reports and dashboards that provide clear, actionable insights.
+
 **⚙️ Optimization**: Writing complex, high-performance SQL queries and optimizing database performance.
 
 **🛠️ My Tech Stack**
 
 **Databases & Warehouses:**  PostgreSQL, MySQL, SQL Server, BigQuery, Snowflake
+
 **BI Tools:** Tableau, Power BI, Looker
+
 **Languages:** SQL, Python (Pandas, NumPy)
 
 **📫 Let's Connect**
